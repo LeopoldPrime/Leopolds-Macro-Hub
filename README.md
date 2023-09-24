@@ -18,3 +18,19 @@ I are committed to delivering the best macros for your gaming convenience. If yo
 
 Thank you for choosing Leopold's Macro Hub. I hope you find our macros helpful and enjoy your gaming experience!
 
+## Project Roadmap
+
+- [x] **Adding Lament Macro and Movement Tab**
+  - Introducing a powerful Lament Macro feature for enhanced functionality.
+  - Creating a Movement Tab for different movement macros.
+
+- [ ] **Adding Themes**
+  - Exploring the world of themes to give your hub a fresh and exciting look.
+
+- [ ] **Fixing Looping Issue**
+  - Addressing and resolving any looping issues to ensure seamless operation.
+
+- [ ] **UI Overhaul to allow more customization**
+  - A complete overhaul of the user interface to provide extensive customization options.
+
+
