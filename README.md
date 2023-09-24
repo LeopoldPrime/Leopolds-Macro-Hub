@@ -16,8 +16,6 @@ Starting the macro hub is a breeze. Follow these simple steps:
 
 I are committed to delivering the best macros for your gaming convenience. If you encounter any issues, have suggestions for improvements, or want to request specific macros, please join our support server at [thrallway.com](https://thrallway.com). Your input is essential to making this hub even better.
 
-Thank you for choosing Leopold's Macro Hub. I hope you find our macros helpful and enjoy your gaming experience!
-
 ## Project Roadmap
 
 - [x] **Adding Lament Macro and Movement Tab**
@@ -32,5 +30,7 @@ Thank you for choosing Leopold's Macro Hub. I hope you find our macros helpful a
 
 - [ ] **UI Overhaul to allow more customization**
   - A complete overhaul of the user interface to provide extensive customization options.
+
+Thank you for choosing Leopold's Macro Hub. I hope you find our macros helpful and enjoy your gaming experience!
 
 
