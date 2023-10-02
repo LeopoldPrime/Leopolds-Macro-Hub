@@ -21,7 +21,7 @@ Starting the macro hub is a breeze. Follow these simple steps:
 
 ## Support and Feedback
 
-I are committed to delivering the best macros for your gaming convenience. If you encounter any issues, have suggestions for improvements, or want to request specific macros, please join our support server at [thrallway.com](https://thrallway.com). Your input is essential to making this hub even better.
+I am committed to delivering the best macros for your gaming convenience. If you encounter any issues, have suggestions for improvements, or want to request specific macros, please join our support server at [thrallway.com](https://thrallway.com). Your input is essential to making this hub even better.
 
 Thank you for choosing Leopold's Macro Hub. I hope you find our macros helpful and enjoy your gaming experience!
 
